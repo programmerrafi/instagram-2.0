@@ -1,3 +1,5 @@
 module.exports = {
-  reactStrictMode: true,
-}
+  images: {
+    domains: ["upload.wikimedia.org", "www.nicepng.com", "cdn.fakercloud.com"],
+  },
+};
