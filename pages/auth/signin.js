@@ -5,7 +5,7 @@ function signIn({ providers }) {
   return (
     <>
       <Header />
-      <div className="flex flex-col items-center justify-center min-h-screen py-2 -mt-56 px-14 text-center">
+      <div className="flex flex-col items-center justify-center min-h-screen py-2 -mt-20 px-14 text-center">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1024px-Instagram_logo.svg.png"
           className="w-80"
@@ -14,7 +14,7 @@ function signIn({ providers }) {
         <p className="font-xs italic">
           This is not a real app, it is built for educational
         </p>
-        <div className="mt-40">
+        <div className="mt-20">
           {Object.values(providers).map((provider) => (
             <div key={provider.name}>
               <button
