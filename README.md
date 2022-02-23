@@ -1,4 +1,4 @@
-### Live Demo: [Click here](https://https://instagram-2-0-mu.vercel.app)
+### Live Demo: [Click here](https://instagram-2-0-mu.vercel.app)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
